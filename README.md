@@ -4,7 +4,9 @@ Using Natural Language Processing(NLP) to analyze emotions and sentiments and to
 Pycharm
 Natural Language Toolkit(NLTK)
 ## Steps
-1. Creating txt file
-2. Cleaning text: Converting to lower case and removing punctuation
-3. Tokenization: Breaking sentence to words and store as list
-4. Stop words: Words that don't add any meaning to the sentence
+1. Creating txt file: For the text whose emotional sentiment is to be analyzed
+3. Cleaning text: Converting to lower case and removing punctuation
+4. Tokenization: Breaking sentence to words and store as list
+5. Defining Stop words: Words that don't add any meaning to the sentence
+6. Creating txt file: For defining the emotions/ sentimennts
+7. Adding NLP Emotion Algorithm
