@@ -8,5 +8,5 @@ Natural Language Toolkit(NLTK)
 3. Cleaning text: Converting to lower case and removing punctuation
 4. Tokenization: Breaking sentence to words and store as list
 5. Defining Stop words: Words that don't add any meaning to the sentence
-6. Creating txt file: For defining the emotions/ sentimennts
+6. Creating txt file: For defining the words and the emotions they represent
 7. Adding NLP Emotion Algorithm
