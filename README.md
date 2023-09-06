@@ -1,7 +1,7 @@
 # Sentiment-Analysis-With-NLTK-Python
 Using Natural Language Processing(NLP) to analyze emotions and sentiments and to identify the dominant emotion in a given text 
 ## Technologies
-Python, Matplotlib, Natural Language Toolkit(NLTK), Pycharm
+Python, Matplotlib, Natural Language Toolkit(NLTK)
 ## Steps
 1. Creating txt file: For the text whose emotional sentiment is to be analyzed
 3. Cleaning text: Converting to lower case and removing punctuation
